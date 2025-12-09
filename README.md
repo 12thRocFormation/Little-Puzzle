@@ -1,5 +1,6 @@
 # Little Puzzle
 
 ## Contact
-# Phone
+### Phone
 - (208)-380-1022
+
